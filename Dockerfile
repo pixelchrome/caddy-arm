@@ -1,7 +1,7 @@
 FROM armhf/alpine
 MAINTAINER pixelchrome <contact2016+caddy-arm@pixelchrome.org>
 
-LABEL caddy_version="0.9.4" architecture="ARMv7"
+LABEL caddy_version="0.9.5" architecture="ARMv7"
 
 ARG plugins=git
 
